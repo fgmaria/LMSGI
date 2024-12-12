@@ -1,0 +1,29 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    display: block; 
+    text-align: center;
+}
+
+.capa1 {
+    width: 50%; 
+    border: 2px solid black;
+    font-size: 100%; 
+    
+ 
+}
+
+.capa2 {
+    width: 33.33%; 
+    border: 2px solid red;
+    font-size: 120%; 
+}
+
+.capa3 {
+    width: 25%; 
+    border: 2px solid blue; 
+    font-size: 60%;
+}
