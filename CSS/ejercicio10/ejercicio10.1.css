@@ -1,0 +1,26 @@
+#Parrafo1 {
+    width: 60%;
+    line-height: 1.5;
+    font: Arial;
+    font-size: 20px;
+    font-style: bold;
+    text-align: left;
+}
+
+#Parrafo2 {
+    width: 50%;
+    line-height: 3.4;
+    font-family: 'Times New Roman';
+    font-size: 13;
+    font-style: oblique;
+    text-align: right;
+}
+
+#Parrafo3 {
+    width: 80%;
+    line-height: 6;
+    font-family: Helvetica;
+    font-size: 5;
+    font-style:italic;
+    text-align: center;
+}

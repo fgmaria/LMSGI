@@ -1,0 +1,54 @@
+#contenedor {
+    width: 80%;
+    background-color: rgb(255, 240, 142);
+  
+}
+
+#SupI {
+    float: left;
+    width: 57%;
+    margin-left: 1%;
+}
+#SupI, h1 {
+    color : red;
+    font-family: Verdana;
+}
+#SupI, h3{
+    color : rgb(45, 48, 104);
+    font-family: Verdana;
+}
+#SupD {
+    float: right;
+    width: 40%;
+}
+fieldset{
+    color:rgb(168, 181, 80)
+}
+label{
+    color: blueviolet;
+}
+#MedI {
+    float: left;
+    width: 48%;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+#MedD {
+    float: right;
+    width: 48%;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+
+#Pie {
+    clear : both;
+    padding: 1%;
+    margin-left: 1%;
+}
+.boton{
+    color: red;
+    border: 2px solid red;
+    background: transparent;
+}
+
